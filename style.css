@@ -1,0 +1,442 @@
+/*
+Theme Name: Astra Child
+Description: Astra Child Theme
+Author: xare
+
+Template: astra
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-column, responsive-layout
+Text Domain: astrachild
+*/
+
+
+/* ul.wp-block-categories-list {
+    list-style: none !important;
+}
+
+ul.wp-block-categories-list li.cat-item {
+    display: inline-block !important;
+    padding: 10px 20px 10px 0 !important;
+}
+
+ul.wp-block-categories-list li.cat-item a {
+    text-decoration: none !important;
+} */
+
+
+/*#coordenadas {
+    background: rgba(219, 219, 219, 0.614);
+    border: 2px solid red;
+    font-size: small;
+    padding: 10px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 40px;
+    left: 0;
+}*/
+
+
+/* DIV contenedor de los checkboxes del mapa */
+
+.map-controls {
+    top: -40px;
+    left: 0;
+    width: 90%;
+    height: 14px;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 2em;
+    line-height: 1.8;
+    font-size: 13px;
+}
+
+.map-controls input[type="checkbox"]:focus,
+.map-controls input[type="checkbox"]:checked {
+    background-color: #F90B55 !important;
+    color: #F90B55 !important;
+    accent-color: #F90B55 !important;
+}
+
+
+/* imp-image-backgrounds-container {
+                            top: 60px !important;
+                        }.
+
+                        .imp-shape-container {
+                            top: 60px !important;
+                        } */
+
+
+/* Contenedor superior de los mapas. */
+
+.imp-wrap {
+    background: white;
+}
+
+
+/* .imp-shape-container {
+                            z-index: -1;
+                        } */
+
+
+/*Contenedor superior de las páginas en cast y en eus para desplazar 40 pixeles el mapa hacia abajo e impedir que los tooltips superiores queden debajo de los chekboxes.*/
+
+#post-402,
+#post-32 {
+    padding-top: 40px;
+}
+
+.entry-content {
+    position: relative;
+}
+
+#primary {
+    margin-top: 0 !important;
+}
+
+
+/* Ocultamos las capas del menu*/
+
+.imp-ui-layers-menu-wrap {
+    display: none;
+}
+
+
+/* Redondeamos los botones del zoom y los posicionamos */
+
+.imp-ui-zoom-button {
+    border-radius: 50%;
+    color: #F90B55 !important;
+    top: -20px !important;
+}
+
+.imp-ui-zoom-button-zoom-in {
+    top: -20px !important;
+    right: 60px !important;
+}
+
+
+/*Elimina la sombra del boton de zoom*/
+
+.imp-ui-element {
+    box-shadow: 0 0px 0px rgba(0, 0, 0, .15);
+}
+
+
+/* Las tooltips seleccionadas muestran el círculo de color negro */
+
+.imp-shape-highlighted {
+    background-color: black !important;
+}
+
+
+/* IDOIA */
+
+
+/*Añade margen al título de la entrada y quita el subrayado en el link*/
+
+.ast-single-post .entry-content a,
+.ast-comment-content a:not(.ast-comment-edit-reply-wrap a) {
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+
+/*Añade el recuadro rosa en el listado de entradas*/
+
+li.wp-block-post.ast-article-single {
+    border: 1px solid #F90B55;
+}
+
+
+/*Reduce el tamaño del título de las entradas en el listado*/
+
+h2,
+.entry-content h2 {
+    font-size: 1.5rem;
+}
+
+
+/*Reduce el tamaño del título de las entradas en el listado*/
+
+address,
+blockquote,
+body,
+dd,
+dl,
+dt,
+fieldset,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+html,
+iframe,
+legend,
+li,
+ol,
+p,
+pre,
+textarea,
+ul {
+    padding: 10px;
+}
+
+
+/*Añade margen a los recuadros rosas*/
+
+.wp-block-post-date {
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+
+
+/*Añade margen izquierdo al elemento fecha*/
+
+address,
+blockquote,
+body,
+dd,
+dl,
+dt,
+fieldset,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+html,
+iframe,
+legend,
+li,
+ol,
+p,
+pre,
+textarea,
+ul {
+    font-size: 95%;
+    line-height: 20px;
+}
+
+
+/*Ajusta el tamaño e interlineado del texto*/
+
+
+/* Mostrar tres bloques en los puntos afectivos Fdo */
+
+@media (min-width: 600px) {
+    .wp-block-post-template.is-flex-container.is-flex-container.columns-3>li {
+        width: calc(32% - .83333em);
+    }
+    /*Filetes negros en el menú  inferior*/
+    .ast-primary-header-bar {
+        border-bottom-width: 2px;
+        border-bottom-color: #000;
+        border-bottom-style: solid;
+        border-top-width: 2px;
+        border-top-color: #000;
+        border-top-style: solid;
+    }
+}
+
+
+/*reduce el tamaño del footer IDO*/
+
+.site-above-footer-wrap {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+/*Alinea el menú capas con logotipo*/
+
+.entry-content[ast-blocks-layout]>* {
+    margin-left: -10px;
+}
+
+
+/*Alinea el menú capas con logotipo*/
+
+
+/*Cambia el color rosa "current page" en el menú*/
+
+.ast-builder-menu-1 .menu-item.current-menu-item>.menu-link,
+.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item>.ast-menu-toggle,
+.ast-builder-menu-1 .current-menu-ancestor>.menu-link {
+    color: #F90B55;
+}
+
+
+/*Añade un margen en las categorías de la entrada*/
+
+.entry-meta,
+.entry-meta * {
+    margin-left: 11px;
+}
+
+
+/*Añade un margen en las categorías de la entrada*/
+
+.wp-block-column.wp-container-2> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-5> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-8> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-11> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-14> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-17> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-20> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-23> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-26> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-29> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-32> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-35> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-38> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-41> :where(:not(.alignleft):not(.alignright):not(.alignfull)),
+.wp-block-column.wp-container-44> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+    max-width: 300px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+}
+
+.imp-shape-oval {
+    width: 5px !important;
+    height: 5px !important;
+}
+
+
+/* 
+.ast-builder-footer-grid-columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)) !important;
+    grid-auto-rows: 8rem !important;
+    justify-content: center !important;
+    align-items: center !important;
+    grid-column-gap: 6rem !important;
+    grid-row-gap: 1rem !important;
+}
+
+.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row {
+    width: fit-content !important;
+    max-width: none !important;
+}
+ */
+
+
+/*Amplia la imagen del listado de entradas, también reduce el padding superior e inferior*/
+
+
+/** .:: menu hamburguesa Fdo ::. **/
+
+@media (max-width: 500px) {
+    .hamlist {
+        list-style: none !important;
+        display: inline;
+    }
+}
+
+
+/* para pantallas grandes */
+
+#hamnav {
+    width: 100%;
+    margin-top: -20px;
+    list-style: none !important;
+    /* background: #000;*/
+}
+
+
+/* Menú horizontal */
+
+#hamitems ul {
+    display: flex;
+}
+
+#hamitems ul li {
+    display: flex;
+    list-style-type: none;
+}
+
+#hamitems a {
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#hamitems a:hover {
+    background: #af0d0d;
+}
+
+
+/* Ocultar el burguermenú */
+
+#hamnav label,
+#hamburger {
+    display: none;
+}
+
+
+/* Para pantallas peques */
+
+@media screen and (max-width: 480px) {
+    /* dividir el menú*/
+    #hamitems a {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        border-top: 1px solid #333;
+    }
+    /* Que muestre el iconito hamburguesero */
+    #hamnav label {
+        display: inline-block;
+        color: white;
+        background: #f90b55;
+        font-style: normal;
+        font-size: 1.2em;
+        padding: 10px;
+    }
+    /* Que muestre u oculte el menú */
+    #hamitems {
+        display: none;
+    }
+    #hamnav input:checked~#hamitems {
+        display: block;
+    }
+}
+
+.squares-element p {
+    color: #F90B55 !important;
+}
+
+.imp-tooltip {
+    box-shadow: 10px 10px 89px -18px rgba(125, 125, 125, 0.76);
+    -webkit-box-shadow: 10px 10px 89px -18px rgba(125, 125, 125, 0.76);
+    -moz-box-shadow: 10px 10px 89px -18px rgba(125, 125, 125, 0.76);
+    color: black !important;
+}
+
+.youtube-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.youtube-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

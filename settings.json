@@ -1,0 +1,1822 @@
+{
+  "id": 9542,
+  "editor": {
+    "selected_shape": "oval-4377",
+    "tool": "zoom-out",
+    "shapeCounter": {
+      "spots": 5,
+      "ovals": 50
+    }
+  },
+  "general": {
+    "name": "Mapica",
+    "shortcode": "Mapica",
+    "naturalWidth": 7677,
+    "naturalHeight": 7677,
+    "center_image_map": 1
+  },
+  "fullscreen": {
+    "enable_fullscreen_mode": 1
+  },
+  "tooltips": {
+    "show_tooltips": "click",
+    "show_title_on_mouseover": 1,
+    "sticky_tooltips": 1,
+    "tooltip_animation": "grow"
+  },
+  "zooming": {
+    "enable_zooming": 1
+  },
+  "layers": {
+    "enable_layers": 1,
+    "layers_list": [
+      {
+        "id": 0,
+        "title": "Mapa Base",
+        "image_url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Mapa_Base.png",
+        "image_width": 7677,
+        "image_height": 7677
+      }
+    ]
+  },
+  "shapes_menu": {
+    "menu_position": "right",
+    "group_by_floor": 1,
+    "hide_children_of_connected_shapes": 0
+  },
+  "spots": [
+    {
+      "id": "oval-2635",
+      "title": "01. Route 5102",
+      "type": "oval",
+      "x": 78.174,
+      "y": 61.401,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 78.174,
+      "y_image_background": 61.401,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.662293083267139,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-250961",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "01. Route 5102",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.38461538461538464,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "YouTube",
+                      "iconClass": "fa fa-youtube"
+                    },
+                    "options": {
+                      "youtube": {
+                        "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/sdWVfwMrASI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                        "iframe_width": 250,
+                        "iframe_height": 250
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/01-route-5120\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-5869",
+      "title": "02. Midiu",
+      "type": "oval",
+      "x": 56.023,
+      "y": 60.332,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 56.023,
+      "y_image_background": 60.332,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6969296470513159,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-346691",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "02. Midiu",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "YouTube",
+                      "iconClass": "fa fa-youtube"
+                    },
+                    "options": {
+                      "youtube": {
+                        "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/0oocc2Pxw9I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                        "iframe_width": 250,
+                        "iframe_height": 250
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/02-midiu\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-2338",
+      "title": "03. Olivos",
+      "type": "oval",
+      "x": 61.4,
+      "y": 52.916,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 61.4,
+      "y_image_background": 52.916,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6801361615801998,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-754711",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "03. Olivos",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Leatxe es un pueblo muy bonito, por cualquier sitio que vayas te encuentras rincones y paseos preciosos. Entre \u00e9stos hay sobre todo uno que, cuando lo descubr\u00ed, suscit\u00f3 en m\u00ed una sensaci\u00f3n algo incre\u00edble, que nunca antes hab\u00eda sentido, as\u00ed como ver algo que tampoco nunca antes hab\u00eda visto: un olivar con unos \u00e1rboles maravillosos que parecen ser antiqu\u00edsimos, pues sus troncos y ra\u00edces resultan sorprendentes\u2026 RECETA DE OIVAS"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-288931",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Olivo_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/03-olivos\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-5345",
+      "title": "04. Abejeras",
+      "type": "oval",
+      "x": 59.196,
+      "y": 52.787,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 59.196,
+      "y_image_background": 52.787,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6801361615801998,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-539201",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "04. Abejeras",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Una edificaci\u00f3n que sol\u00eda abundar en Leatxe es el Abejar. En otros tiempos era habitual tener abejas y producir miel. En cambio, ahora son pocas las personas que se dedican a ello"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-569031",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Abejeras_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/abejeras\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-4858",
+      "title": "05. Balsas",
+      "type": "oval",
+      "x": 51.554,
+      "y": 12.307,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 51.554,
+      "y_image_background": 12.307,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6801361615801998,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-5891",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "05. Balsas",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Balsas en Leatxe hay unas cuantas: La balsa Vieja, la Nueva, la de Lordia, la de la Losa, la del Boj, etc."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-66581",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Balsa_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/05-balsas\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-5326",
+      "title": "06. Pino debajo eras",
+      "type": "oval",
+      "x": 52.59,
+      "y": 59.977,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 52.59,
+      "y_image_background": 59.977,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.7142479289434043,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-935161",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "06. Pino debajo eras",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Hay cosas en la vida que no se sabe muy bien por qu\u00e9 est\u00e1n donde est\u00e1n o para qu\u00e9 sirven. Como si estuvieran descolocadas o en el lugar equivocado."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-477381",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Pino_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/06-pino-debajo-eras\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-2470",
+      "title": "07. Soneto al lavadero",
+      "type": "oval",
+      "x": 53.82,
+      "y": 52.188,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 53.82,
+      "y_image_background": 52.188,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6969296470513159,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-503281",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "07. Soneto al lavadero",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Un soneto me manda hacer Landarteque en mi vida me he visto en tal aprieto."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-295931",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Lavadero_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/07-soneto-al-lavadero\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-992",
+      "title": "08. La \u201cPiscina de Leache\u201d, sue\u00f1o y realidad",
+      "type": "oval",
+      "x": 55.763,
+      "y": 51.816,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 55.763,
+      "y_image_background": 51.816,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.7137231325224319,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-515871",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "08. La \u201cPiscina de Leache\u201d, sue\u00f1o y realidad",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "20",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Ha llegado el verano. Este a\u00f1o, como todos los anteriores, disfrutaremos una vez m\u00e1s de las fiestas de mi pueblo, Leache, con vistas privilegiadas al monte lleno de pinos, y cercado de campos y verdes \u00e1rboles. Pensamos gozar de tantas cosas que atesora el silencio del pueblo."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-821231",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Piscina_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/08-la-piscina-de-leache-sueno-y-realidad\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-4689",
+      "title": "09. El \u00e1rbol de la vida",
+      "type": "oval",
+      "x": 56.024,
+      "y": 54.729,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 56.024,
+      "y_image_background": 54.729,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6969296470513159,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-293241",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "09. El \u00e1rbol de la vida",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.38461538461538464,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "YouTube",
+                      "iconClass": "fa fa-youtube"
+                    },
+                    "options": {
+                      "youtube": {
+                        "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/AGmfZ5-PlO4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                        "iframe_width": 250,
+                        "iframe_height": 250
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/09-el-arbol-de-la-vida\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-9709",
+      "title": "10. Paseo floral",
+      "type": "oval",
+      "x": 50.387,
+      "y": 51.233,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 50.387,
+      "y_image_background": 51.233,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6969296470513159,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-37931",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "10. Paseo floral",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "20",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-637021",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/000_GIF.gif"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/10-paseo-floral\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-8285",
+      "title": "11. Cuatromugas",
+      "type": "oval",
+      "x": 40.672,
+      "y": 0.65,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 40.672,
+      "y_image_background": 0.65,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6801361615801998,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-901771",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "11. Cuatromugas",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "En el alto de la Sierra hay una piedra clavada, la piedra de cuatromugas que a cuatro pueblos separa."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-475641",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Cuatromugas_Destacada.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/11-cuatromugas\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-6403",
+      "title": "12. Adiskide bat ba zen",
+      "type": "oval",
+      "x": 65.705,
+      "y": 48.513,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 65.705,
+      "y_image_background": 48.513,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.7137231325224319,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-257661",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "12. Adiskide bat ba zen",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Adiskide bat bazen, baina ez zen artzaina.Txikia zen, ile beltzekoa, eta argala.Bizitza mahatsondo, gari eta pinu artean igaro zuen.Plazan gizon ausarta zen, baino ez zuen kanturik egiten."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-700591",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/12-adiskide-bat-ba-zen\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-9778",
+      "title": "13. Juegos en el atrio de Leache",
+      "type": "oval",
+      "x": 51.149,
+      "y": 53.922,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 51.149,
+      "y_image_background": 53.922,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6633426761090837,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-363471",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "13. Juegos en el atrio de Leache",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Contados por Anastasia Arlegui Suescun que naci\u00f3 en Leache el 15 de abril de 1932Plazan gizon ausarta zen, baino ez zuen kanturik egiten."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-669321",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/13-juegos-en-el-atrio-de-leache\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-4377",
+      "title": "14. Entrehuertos",
+      "type": "oval",
+      "x": 55.553,
+      "y": 53.143,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 55.553,
+      "y_image_background": 53.143,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#000000",
+        "background_opacity": 0.7137231325224319,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-792471",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "14. Entrehuertos",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.3384615384615385,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "line_height": "12",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "Todos las familias ten\u00edan su huerto, vecinos unos de otros, alrededor del peque\u00f1o canal de agua.Gracias al huerto los vecinos se nutr\u00edan de verduras variadas todo el a\u00f1o.Hab\u00eda que ir todos los d\u00edas, \u201caunque sea a decir buenos d\u00edas\u201d."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "18",
+                        "text_color": "#000000"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Image",
+                      "iconClass": "fa fa-camera"
+                    },
+                    "options": {
+                      "image": {
+                        "url": "https:\/\/dev.leatlas.es\/wp-content\/uploads\/2022\/11\/Entrehuertos_Destacada.jpg"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sq-container-353461",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/14-entrehuertos\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      },
+                      "font": {
+                        "line_height": "https:\/\/dev.leatlas.es\/05-balsas\/"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "oval-895",
+      "title": "15. Askatasuna",
+      "type": "oval",
+      "x": 52.559,
+      "y": 54.599,
+      "width": 0.5,
+      "height": 0.5,
+      "x_image_background": 52.559,
+      "y_image_background": 54.599,
+      "width_image_background": 2.461,
+      "height_image_background": 2.461,
+      "actions": {
+        "click": "follow-link",
+        "link": "https:\/\/dev.leatlas.es\/01-route-5120\/"
+      },
+      "default_style": {
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "mouseover_style": {
+        "opacity": 0.48717948717948717,
+        "background_color": "#f90b55",
+        "background_opacity": 1,
+        "border_style": "none"
+      },
+      "tooltip_style": {
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "background_opacity": 0.6633426761090837,
+        "width": 400,
+        "auto_width": 0,
+        "offset_x": -11.561070595854929,
+        "offset_y": 0.2849540155440309
+      },
+      "tooltip_content": {
+        "squares_settings": {
+          "containers": [
+            {
+              "id": "sq-container-200321",
+              "settings": {
+                "elements": [
+                  {
+                    "settings": {
+                      "name": "Heading",
+                      "iconClass": "fa fa-header"
+                    },
+                    "options": {
+                      "heading": {
+                        "text": "15. Askatasuna",
+                        "heading": "h2"
+                      },
+                      "style": {
+                        "background_opacity": 0.38461538461538464,
+                        "border_width": 3,
+                        "border_color": "#f90b55"
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "text_color": "#f90b55"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Paragraph",
+                      "iconClass": "fa fa-paragraph"
+                    },
+                    "options": {
+                      "text": {
+                        "text": "El pueblo. Ese privilegio que algunos pocos pueden disfrutar. En nuestro caso, es este; Leatxe. Un pueblo cuidado por unos pocos habitantes, sin poner en duda la calidad de estos."
+                      },
+                      "font": {
+                        "font_family": "andale mono",
+                        "font_size": "12",
+                        "line_height": "20",
+                        "text_color": "#000000"
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "YouTube",
+                      "iconClass": "fa fa-youtube"
+                    },
+                    "options": {
+                      "youtube": {
+                        "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/PXaNMjvKUHI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                        "iframe_width": 250,
+                        "iframe_height": 250
+                      }
+                    }
+                  },
+                  {
+                    "settings": {
+                      "name": "Button",
+                      "iconClass": "fa fa-link"
+                    },
+                    "options": {
+                      "button": {
+                        "text": "Leer +",
+                        "link_to": "https:\/\/dev.leatlas.es\/15-askatasuna\/",
+                        "new_tab": 1,
+                        "height": 25,
+                        "bg_color": "#f90b55",
+                        "border_radius": 0,
+                        "padding": 10
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
